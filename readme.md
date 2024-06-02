@@ -34,10 +34,10 @@ Run the application and enter a movie title in the search bar. The application w
 
 ## Screenshots
 
-![Screenshot 1](/screenshots/Screenshot 2024-06-02 185334.png)
+![Screenshot 1](/screenshots/search_view.png)
 *Search view*
 
-![Screenshot 2](path/to/screenshot2.png)
+![Screenshot 2](movie_details_view.png)
 *Movie details view*
 
 ## License
