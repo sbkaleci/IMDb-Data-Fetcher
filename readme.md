@@ -34,7 +34,7 @@ Run the application and enter a movie title in the search bar. The application w
 
 ## Screenshots
 
-![Screenshot 1](path/to/screenshot1.png)
+![Screenshot 1](/screenshots/Screenshot 2024-06-02 185334.png)
 *Search view*
 
 ![Screenshot 2](path/to/screenshot2.png)
