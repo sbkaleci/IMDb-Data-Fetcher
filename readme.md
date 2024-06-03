@@ -37,7 +37,7 @@ Run the application and enter a movie title in the search bar. The application w
 ![Screenshot 1](./screenshots/search_view.png)
 *Search view*
 
-![Screenshot 2](./movie_details_view.png)
+![Screenshot 2](./screenshots/movie_details_view.png)
 *Movie details view*
 
 ## License
